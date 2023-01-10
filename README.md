@@ -1,23 +1,17 @@
-# Face Detection Application using OpenCV and Tkinter GUI
+# Online Image Viewer with drag and drop feature
 
 <<<<<<< HEAD
 https://user-images.githubusercontent.com/90335449/211381601-967a6dc3-7ab5-4857-be80-ef76fb9b2bcd.mp4
 
-=======
+# Technologies Used
 
-[Video][https://synthesia-ttv-data.s3-eu-west-1.amazonaws.com/video_data/6a0918e6-2650-4d1a-86fe-0bee589af879/transfers/target_transfer.mp4]
->>>>>>> 502b0243237d524c9f7012be1df1781781c34fc6
-# IMPORTED LIBRARIES
+1. HTML
+2. CSS
+3. JavaScript
 
-Python libraries like :-
+# Why Online Image Viewer?
 
-1. Tkinter :- used for GUI(Graphical User Interface)
-2. cv2 :- OpenCV used for face detection
-3. subprocess:- used to run system level script
-
-# Why Face Detection?
-
-There are several motivations for using face detection with OpenCV, some of which are:
+There are several motivations for using an Online Image Viewer, some of which are:
 Automating tasks: It can be used to automate tasks that require identifying and processing
 images of human faces. For example, a face detection system could be used to
 automatically tag friends in a photo album or to index and search a database of images for
@@ -95,3 +89,13 @@ There are a few limitations to using OpenCV for face detection:
 I learned many new techniques and enjoyed the process. There were a lot of problems, but
 removing errors is what we must learn. The project may not give accurate results in some cases as
 mentioned above, and there are quite a few correct solutions too, I will explore this domain further.
+
+### MIT Licence
+
+**Copyright (c) 2023 Aditya Bahl**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
