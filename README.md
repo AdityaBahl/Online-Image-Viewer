@@ -1,5 +1,8 @@
 # Online Image Viewer with drag and drop feature
 
+![image1](https://github.com/AdityaBahl/Online-Image-Viewer/blob/main/sample1.png)
+![image2](https://github.com/AdityaBahl/Online-Image-Viewer/blob/main/sample2.png)
+
 # Technologies Used
 
 1. HTML
