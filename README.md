@@ -12,53 +12,6 @@ https://user-images.githubusercontent.com/90335449/211381601-967a6dc3-7ab5-4857-
 # Why Online Image Viewer?
 
 There are several motivations for using an Online Image Viewer, some of which are:
-Automating tasks: It can be used to automate tasks that require identifying and processing
-images of human faces. For example, a face detection system could be used to
-automatically tag friends in a photo album or to index and search a database of images for
-specific people.
-
-1. Security and surveillance: Face detection can be used in security and surveillance
-   applications to identify and track individuals in real-time or in recorded video footage. This
-   can help to detect and prevent crimes, as well as to gather evidence for investigations.
-2. Human-computer interaction: Face detection can be used to enable more natural and
-   intuitive forms of human-computer interaction, such as facial recognition login systems or
-   facial expression analysis for emotional computing.
-3. Research and development: Face detection is a widely studied problem in computer vision
-   and machine learning, and there is ongoing research and development in this area to
-   improve the accuracy and efficiency of face detection algorithms. OpenCV provides an open
-   source platform for researchers and developers to experiment with and contribute to the
-   advancement of face detection technology.
-
-# Why OpenCV?
-
-There are several reasons why OpenCV is a good choice for face detection:
-
-1. OpenCV is open source: OpenCV is an open source library, which means that it is free to use and distribute. This makes it an attractive option for developers who want to use it in their projects without incurring any licensing fees.
-2. OpenCV is widely used: OpenCV is a popular library with a large user base and a active developer community. This means that there is a wealth of documentation, tutorials, and examples available online, as well as a strong support network of users and developers who can help with any questions or issues that may arise.
-3. OpenCV is fast and efficient: OpenCV is optimized for real-time performance and is designed to be fast and efficient. This makes it a good choice for applications that require fast face detection, such as security and surveillance systems or human-computer interaction.
-4. OpenCV has a wide range of features: In addition to face detection, OpenCV includes a wide range of other features for image and video processing, such as object detection, image segmentation, and image stitching. This makes it a versatile and powerful library for a wide range of computer vision tasks.
-
-Overall, OpenCV is a good choice for face detection due to its open source nature, wide user base, fast performance, and extensive feature set.
-
-# Algorithm
-
-Here are the steps to detect faces in an image using OpenCV:
-
-1. Import the necessary libraries, such as cv2 for OpenCV and numpy for numerical processing.
-2. Load the image using the imread function from the cv2 library. This function returns a
-   NumPy array representing the image.
-3. Convert the image to grayscale using the cvtColor function from the cv2 library. This is
-   typically done because face detection algorithms are more sensitive to grayscale images.
-4. Load the pre-trained face detection classifier using the CascadeClassifier function from the
-   cv2 library. This classifier is trained to recognize common patterns in images that are
-   characteristic of faces.
-5. Use the detectMultiScale method of the CascadeClassifier object to detect faces in the
-   image. This method returns a list of rectangles, each representing a face in the image.
-6. Iterate through the list of rectangles and draw a rectangle around each face using the
-   rectangle function from the cv2 library. You can specify the color and thickness of the
-   rectangle using the color and thickness parameters.
-7. Display the image using the imshow function from the cv2 library and wait for the user to
-   close the window using the waitKey function.
 
 # Challenges and limitations of OpenCV
 
