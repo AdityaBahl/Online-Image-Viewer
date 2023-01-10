@@ -1,8 +1,5 @@
 # Online Image Viewer with drag and drop feature
 
-<<<<<<< HEAD
-https://user-images.githubusercontent.com/90335449/211381601-967a6dc3-7ab5-4857-be80-ef76fb9b2bcd.mp4
-
 # Technologies Used
 
 1. HTML
