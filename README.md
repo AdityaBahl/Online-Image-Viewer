@@ -1,6 +1,11 @@
 # Online Image Viewer with drag and drop feature
 
+### Before Uploading
+
 ![image1](https://github.com/AdityaBahl/Online-Image-Viewer/blob/main/sample1.png)
+
+### After Uploading
+
 ![image2](https://github.com/AdityaBahl/Online-Image-Viewer/blob/main/sample2.png)
 
 # Technologies Used
