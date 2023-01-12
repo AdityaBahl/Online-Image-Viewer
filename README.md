@@ -48,9 +48,8 @@ There are several challenges and limitations of an online image viewer that take
 
 # Conclusion
 
-I learned many new techniques and enjoyed the process. There were a lot of problems, but
-removing errors is what we must learn. The project may not give accurate results in some cases as
-mentioned above, and there are quite a few correct solutions too, I will explore this domain further.
+In conclusion, an online image viewer that takes images from a user's computer with drag and drop feature can be a useful tool for quickly and easily viewing personal images. However, it also has its limitations, such as a lack of zoom and slideshow functionality, compatibility issues, and security concerns. Additionally, it may not be accessible for all users and may have limitations in terms of file size and offline usage. It can be best suited for cases where the user needs to access a specific image or a set of images in a fast and easy way, and doesn't require advanced features like zoom and slideshow.
+I learned many new techniques and enjoyed the process. There were a lot of problems, but removing errors is what we must learn.I will explore this domain further.
 
 ### MIT Licence
 
