@@ -16,7 +16,15 @@
 
 # Why Online Image Viewer?
 
-There are several motivations for using an Online Image Viewer, some of which are:
+An online image viewer that takes images from a user's computer with drag and drop feature can be useful for several reasons:
+
+Ease of use: Drag and drop feature allows users to quickly and easily add images to the viewer without having to navigate through their file system.
+
+Speed: With drag and drop feature users can add multiple images at once and it saves time, which can be beneficial for users who have a large number of images to view.
+
+User-friendly: Drag and drop feature is easy to use and requires minimal technical knowledge, making it accessible for a wide range of users.
+
+While the viewer may not have features such as zoom and slideshow, it can still be useful in certain situations where those features are not needed. Furthermore, the drag and drop feature enables the user to quickly view the images they need to access and eliminates the need for additional functionalities like zoom and slideshow.
 
 # Challenges and limitations
 
