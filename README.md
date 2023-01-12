@@ -24,6 +24,10 @@ An online image viewer that takes images from a user's computer with drag and dr
 
 3. User-friendly: Drag and drop feature is easy to use and requires minimal technical knowledge, making it accessible for a wide range of users.
 
+4. Privacy: It allows users to view their personal images without having to upload them to a website or server, thereby ensuring that their images remain private.
+
+5. Convenience: It allows users to view their local images without having to navigate through their file system, making it more convenient for users to access their images.
+
 While the viewer may not have features such as zoom and slideshow, it can still be useful in certain situations where those features are not needed. Furthermore, the drag and drop feature enables the user to quickly view the images they need to access and eliminates the need for additional functionalities like zoom and slideshow.
 
 # Challenges and limitations
