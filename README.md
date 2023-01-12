@@ -10,23 +10,23 @@
 
 # Technologies Used
 
-1. HTML
-2. CSS
-3. JavaScript
+1. **HTML**
+2. **CSS**
+3. **JavaScript**
 
 # Why Online Image Viewer?
 
 An online image viewer that takes images from a user's computer with drag and drop feature can be useful for several reasons:
 
-1. Ease of use: Drag and drop feature allows users to quickly and easily add images to the viewer without having to navigate through their file system.
+1. **Ease of use**: Drag and drop feature allows users to quickly and easily add images to the viewer without having to navigate through their file system.
 
-2. Speed: With drag and drop feature users can add multiple images at once and it saves time, which can be beneficial for users who have a large number of images to view.
+2. **Speed**: With drag and drop feature users can add multiple images at once and it saves time, which can be beneficial for users who have a large number of images to view.
 
-3. User-friendly: Drag and drop feature is easy to use and requires minimal technical knowledge, making it accessible for a wide range of users.
+3. **User-friendly**: Drag and drop feature is easy to use and requires minimal technical knowledge, making it accessible for a wide range of users.
 
-4. Privacy: It allows users to view their personal images without having to upload them to a website or server, thereby ensuring that their images remain private.
+4. **Privacy**: It allows users to view their personal images without having to upload them to a website or server, thereby ensuring that their images remain private.
 
-5. Convenience: It allows users to view their local images without having to navigate through their file system, making it more convenient for users to access their images.
+5. **Convenience**: It allows users to view their local images without having to navigate through their file system, making it more convenient for users to access their images.
 
 While the viewer may not have features such as zoom and slideshow, it can still be useful in certain situations where those features are not needed. Furthermore, the drag and drop feature enables the user to quickly view the images they need to access and eliminates the need for additional functionalities like zoom and slideshow.
 
@@ -34,17 +34,17 @@ While the viewer may not have features such as zoom and slideshow, it can still 
 
 There are several challenges and limitations of an online image viewer that takes images from a user's computer with drag and drop feature and doesn't have features like zoom and slideshow:
 
-1. Limited functionality: Without features like zoom and slideshow, users may find it difficult to view images in detail or to view multiple images at once.
+1. **Limited functionality**: Without features like zoom and slideshow, users may find it difficult to view images in detail or to view multiple images at once.
 
-2. Compatibility issues: The viewer may not be able to support all image file types, which can cause issues for users who have images in different formats.
+2. **Compatibility issues**: The viewer may not be able to support all image file types, which can cause issues for users who have images in different formats.
 
-3. Security concerns: If the viewer does not have proper security measures in place, there may be a risk that users' personal images could be accessed or compromised by unauthorized parties.
+3. **Security concerns**: If the viewer does not have proper security measures in place, there may be a risk that users' personal images could be accessed or compromised by unauthorized parties.
 
-4. Limited accessibility: Users with visual or motor impairments may find it difficult to use a drag and drop feature and may require additional accessibility features to use the viewer.
+4. **Limited accessibility**: Users with visual or motor impairments may find it difficult to use a drag and drop feature and may require additional accessibility features to use the viewer.
 
-5. File size limitations: some users may have images with large size, and this may cause a problem for the viewer in terms of loading time and storage space.
+5. **File size limitations**: some users may have images with large size, and this may cause a problem for the viewer in terms of loading time and storage space.
 
-6. Offline usage: The viewer may not be able to function offline, which can be a problem for users who are not connected to the internet.
+6. **Offline usage**: The viewer may not be able to function offline, which can be a problem for users who are not connected to the internet.
 
 # Conclusion
 
