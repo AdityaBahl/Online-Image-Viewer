@@ -2,11 +2,11 @@
 
 ### Before Uploading
 
-![image1](https://github.com/AdityaBahl/Online-Image-Viewer/blob/main/sample1.png)
+![sample1](https://user-images.githubusercontent.com/90335449/212975523-66b15345-780a-45c1-8509-d1ac5fefc3b5.png)
 
 ### After Uploading
 
-![image2](https://github.com/AdityaBahl/Online-Image-Viewer/blob/main/sample2.png)
+![sample2](https://user-images.githubusercontent.com/90335449/212975605-c16f2452-0186-4e26-ab44-5b41256b7958.png)
 
 # Technologies Used
 
